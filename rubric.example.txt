@@ -1,0 +1,8 @@
+!TypeScript | 3
+!React | 3
+Python | 2
+Event-driven | 2
+Customer discovery | 2
+Testing | 1
+Cloud | 1
+Ownership | 2
